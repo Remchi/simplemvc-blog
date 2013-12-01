@@ -4,6 +4,7 @@ PATH
     simplemvc (0.0.1)
       erubis
       rack
+      sqlite3
 
 GEM
   remote: https://rubygems.org/
