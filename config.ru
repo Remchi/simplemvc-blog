@@ -1,6 +1,6 @@
 require './config/application.rb'
 
-
+use Rack::ContentType
 
 app = Blog::Application.new
 
